@@ -1,0 +1,9 @@
+jwt:
+  secret:
+    key: bDkt4MQ9kVZeuQnUJTQP2zirRVT4LWcAt0SGxCu6ryGNJcxXLI+etEXG36cdhp4F
+  time:
+    expiration: 180000
+
+spring:
+  profiles:
+    active: dev
